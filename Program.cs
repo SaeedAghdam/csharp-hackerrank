@@ -1,12 +1,12 @@
-﻿using System;
+﻿using HackerRank.Challenges;
 
-namespace HackerRank // Note: actual namespace depends on the project name.
+namespace HackerRank 
 {
     public class Program
     {
         static void Main(string[] args)
         {
-           LegoBlocks.Run();
+            KingOrder.Run();
         }
     }
 }

@@ -1,4 +1,4 @@
-namespace HackerRank
+namespace HackerRank.Challenges
 {
     //https://www.hackerrank.com/challenges/one-week-preparation-kit-lego-blocks/problem
 
